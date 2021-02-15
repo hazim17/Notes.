@@ -1,0 +1,16 @@
+/* Utilities (You're gonna use it all around the website)  */
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto; /*This makes your content in container is in the middle*/
+    overflow: auto;
+    padding: 0 40px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
